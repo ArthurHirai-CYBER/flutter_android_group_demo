@@ -113,8 +113,10 @@ images/android-real-device.jpg
 - 必须拍到手持手机。
 - 不能包含明显隐私信息。
 
-提交照片后，下面应显示本组真机运行效果：
+## 真机运行证据
+
+本组已完成 Android 真机运行，并由第二部手机拍摄手持真机照片如下：
 
 ![Android 真机运行照片](images/android-real-device.jpg)
 
-如果这里暂时显示不出图片，说明还没有提交 `images/android-real-device.jpg`，或 README 路径需要检查。
+拍摄说明：真机通过 USB 连接电脑运行 Flutter 应用，照片由第二部手机拍摄，可看到手持真机、应用界面及 USB 数据线连接。
