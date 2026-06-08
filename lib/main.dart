@@ -29,11 +29,11 @@ class TeamAndroidHomePage extends StatelessWidget {
   static const String deviceProof = '最终证据：用第二部手机拍摄手持 Android 真机运行照片，并加入 GitHub README。';
 
   static const List<TeamMember> members = [
-    TeamMember(role: '组长', name: '李组长', task: '创建仓库、维护 main、审核 PR、组织主电脑和主手机完成真机运行'),
-    TeamMember(role: '组员 A', name: '成员 A', task: '修改应用标题 projectTitle 和项目口号 projectSlogan'),
-    TeamMember(role: '组员 B', name: '成员 B', task: '补充 members 中的小组成员姓名与分工'),
-    TeamMember(role: '组员 C', name: '成员 C', task: '补充 androidTasks 中的真机运行检查任务'),
-    TeamMember(role: '组员 D', name: '成员 D', task: '补充 evidenceNotes 中的拍照和 README 证据说明'),
+    TeamMember(role: '组长', name: '张智阳', task: '创建仓库、维护 main、审核 PR、组织主电脑和主手机完成真机运行'),
+    TeamMember(role: '组员 A', name: '郇志轩', task: '修改应用标题 projectTitle 和项目口号 projectSlogan'),
+    TeamMember(role: '组员 B', name: '李牧凡', task: '补充 members 中的小组成员姓名与分工'),
+    TeamMember(role: '组员 C', name: '李响', task: '补充 androidTasks 中的真机运行检查任务'),
+    TeamMember(role: '组员 D', name: '庞博', task: '补充 evidenceNotes 中的拍照和 README 证据说明'),
   ];
 
   static const List<String> androidTasks = [
